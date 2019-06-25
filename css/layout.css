@@ -161,7 +161,7 @@ ul#nav {
    background-color: #000000;
 
    /* center align the menu */
-   text-align: left;
+   text-align: center;
 }
 ul#nav li {
    position: relative;
